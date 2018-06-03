@@ -17,12 +17,3 @@ Sa se scrie un program care va returna sistemului de operare codul 777 si va afi
 *Please Check errorlevel variable.*
 
 Sa se verifice variabila errorlevel.
-
-### Task 4
-Sa se scrie un program (care sa nu fie mai lung de 7 rinduri) ce va afisa:
-
-H  
-E  
-L  
-L  
-O  
