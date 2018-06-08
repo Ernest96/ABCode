@@ -44,10 +44,10 @@ Iar apoi va rescrie sirul dat ca el sa arate in felul urmator:
 ## Part 2
 
 ### Task 1
-Sa se afiseze un string dupa formatul:
+Sa se afiseze un string dupa formatul:  
 *"Ma numesc %s, imi place C."*
 
 ### Task 2
-Sa se scrie un program care va afisa un string dupa formatul:
+Sa se scrie un program care va afisa un string dupa formatul:  
 *Eu am %d ani. Locuiesc in %s*
 
