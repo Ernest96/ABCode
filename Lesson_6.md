@@ -51,3 +51,17 @@ Sa se afiseze un string dupa formatul:
 Sa se scrie un program care va afisa un string dupa formatul:  
 *Eu am %d ani. Locuiesc in %s*
 
+## Part 3
+
+### Task 1
+Afisati cu ajutorul caracterului '\t' schita unui menu (la alegerea dumneavoastra)
+
+### Task 2
+Executati:  
+printf("%3d\r\n", 0);  
+printf("%3d\r\n", 12);  
+printf("%3d\r\n", 321);
+printf("%3d\r\n", 1234);  
+
+Ce observati ?
+
